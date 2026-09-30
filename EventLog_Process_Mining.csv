@@ -1,0 +1,9 @@
+Case_ID,Activity,Timestamp,Resource,Status
+A-101,Pengajuan Pinjam,2026-09-10 08:15,System,Sukses
+A-101,Verifikasi Dokumen,2026-09-10 08:30,Rina,Sukses
+A-101,Penyerahan Buku,2026-09-10 08:45,Joko,Sukses
+A-102,Pengajuan Pinjam,2026-09-10 08:20,System,Sukses
+A-102,Verifikasi Dokumen,2026-09-10 08:50,Rina,Gagal (Denda)
+A-102,Pembayaran Denda,2026-09-10 09:15,Kasir,Sukses
+A-102,Penyerahan Buku,2026-09-10 09:25,Joko,Sukses
+A-103,Pengajuan Pinjam,2026-09-10 09:00,System,Sukses
